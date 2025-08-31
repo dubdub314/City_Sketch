@@ -1,0 +1,17 @@
+experiments:
+  - name: full
+    ring: 1
+    soft_topo: 1
+    hier: 1
+  - name: no_ring
+    ring: 0
+    soft_topo: 1
+    hier: 1
+  - name: no_soft_topo
+    ring: 1
+    soft_topo: 0
+    hier: 1
+  - name: no_hier
+    ring: 1
+    soft_topo: 1
+    hier: 0
