@@ -11,6 +11,15 @@ This project contains a **complete** pipeline:
 - **Accuracy vs RealMap** 
 - **Score calibration** for Fidelity
 
+- The data input is supported by our webGIS-based City Image collection platform:
+- The platform can be accessed via MetaCityLab.com.
+- Since the domain name may be restricted in certain international regions, if the main domain is inaccessible, it is recommended to access via the IP address.
+- IP addresses:
+- http://106.15.206.244/
+ (MetaCityLab website)
+- http://43.100.135.195/
+ (City Image collection platform)
+
 ## Install
 ```bash
 pip install -r requirements.txt
