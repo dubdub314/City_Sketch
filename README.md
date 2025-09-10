@@ -17,15 +17,16 @@ The data input is supported by our webGIS-based City Image collection platform:
 - Since the domain name may be restricted in certain international regions, if the main domain is inaccessible, it is recommended to access via the IP address.
 - IP addresses:
 - http://106.15.206.244/
- (MetaCityLab website)
+ (MetaCityLab website) server located in Shanghai
 - http://43.100.135.195/
- (City Image collection platform)
+ (City Image collection platform) server located in Hong Kong
+- Use VPN if needed
 
 
 Notice
 
 - We are happy to share our platform and code.
-- Please note that our code uses commercial APIs (e.g., Google), which come with token limits.
+- Please note that our code uses commercial APIs (e.g., Google Maps API), which come with token limits.
 - Commercial use or unrestricted large-scale access may cause significant issues for the availability of our project.
 - Therefore, please do not use our shared resources for commercial purposes or distribute them without restrictions.
 - For large-scale usage needs, please contact us directly or leave a message on our website — we will be glad to provide assistance.
