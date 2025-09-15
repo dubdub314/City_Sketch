@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+geopandas
+shapely
+pyproj
+networkx
+torch>=2.1
+torchvision
+torchaudio
+torch-geometric
+POT
+matplotlib
+openpyxl
+requests
+tqdm
