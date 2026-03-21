@@ -12,14 +12,14 @@ This project contains a **complete** pipeline:
 - **Score calibration** for Fidelity
 
 
-The data input is supported by our webGIS-based City Image collection platform:
+The data input is supported by our webGIS-based urban cognitive map collection platform:
 - The platform can be accessed via http://metacitylab.com/.
 - Since the domain name may be restricted in certain international regions, if the main domain is inaccessible, it is recommended to access via the IP address.
 - IP addresses:
 - http://106.15.206.244/
- (MetaCityLab website) server located in Shanghai
-- http://43.100.135.195/
- (City Image collection platform) server located in Hong Kong
+ (Our website) server located in UK & Shanghai
+- http://47.82.224.139/
+ (Map collection platform) server located in UK & Singapore
 - Use VPN if needed
 
 
